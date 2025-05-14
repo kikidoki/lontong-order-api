@@ -1,6 +1,8 @@
 # Lontong Order API
 
-A Django REST API for managing lontong (rice cake) orders with JWT authentication and WhatsApp integration.
+A Django REST API for managing lontong (rice cake) orders with JWT authentication and WhatsApp integration. 
+Built to assist my mom and her team in managing customer orders and communication around Eid Adha 2025.
+🔗 Planned frontend integration: https://lontongjembatan.vercel.app
 
 ## Features
 
